@@ -1,4 +1,4 @@
-# 💫Hi, My Name İs Enes
+#  💫Hi, My Name İs Enes
 I am studying Mechatronics Engineering at Karabuk University. I have been involved in various projects and teams throughout my education life. Some of these are UAV teams and Atalay Rocket Team, which I am currently a part of and in the software team. I do my best to improve myself in my work. In 2022, I actively continue my efforts to progress in the mobile field by learning Flutter and Dart language thanks to Google. Below are the Software Languages I have mastered. <br><br><br><br>You can access Project and My Contributions on Github and Linkedin accounts.
 .<br><br><br>Thank you for visiting this README file. You can contact me through my social media accounts or my personal website. I'm also always happy to contribute or collaborate on your open source projects.<br>
 
@@ -15,42 +15,3 @@ I am studying Mechatronics Engineering at Karabuk University. I have been involv
 ---
 [![](https://visitcount.itsvg.in/api?id=elcrezoo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<style>
-    body {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      margin: 0;
-      background-color: #f0f0f0;
-      font-family: Arial, sans-serif;
-    }
-
-    .container {
-      max-width: 600px;
-      padding: 20px;
-      background-color: #fff;
-      border-radius: 10px;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    }
-
-    .social-links {
-      display: flex;
-      justify-content: space-around;
-      margin-top: 20px;
-    }
-
-    .tech-stack {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 10px;
-      margin-top: 20px;
-    }
-
-    .top-contributed-repo {
-      display: flex;
-      justify-content: center;
-      margin-top: 20px;
-    }
-  </style>
