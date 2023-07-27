@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, My Name İs Enes  <br><br am studying Mechatronics Engineering at Karabuk University. I have been involved in various projects and teams throughout my education life. Some of these are UAV teams and Atalay Rocket Team, which I am currently a part of and in the software team. I do my best to improve myself in my work. In 2022, I actively continue my efforts to progress in the mobile field by learning Flutter and Dart language thanks to Google. Below are the Software Languages I have mastered. <br><br><br><br>You can access Project and My Contributions on Github and Linkedin accounts.
+# 💫Hi, My Name İs Enes
+  <br><br am studying Mechatronics Engineering at Karabuk University. I have been involved in various projects and teams throughout my education life. Some of these are UAV teams and Atalay Rocket Team, which I am currently a part of and in the software team. I do my best to improve myself in my work. In 2022, I actively continue my efforts to progress in the mobile field by learning Flutter and Dart language thanks to Google. Below are the Software Languages I have mastered. <br><br><br><br>You can access Project and My Contributions on Github and Linkedin accounts.
 .<br><br><br>Thank you for visiting this README file. You can contact me through my social media accounts or my personal website. I'm also always happy to contribute or collaborate on your open source projects.<br>
 
 
