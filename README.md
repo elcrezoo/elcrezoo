@@ -15,3 +15,42 @@ I am studying Mechatronics Engineering at Karabuk University. I have been involv
 ---
 [![](https://visitcount.itsvg.in/api?id=elcrezoo&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f0f0f0;
+      font-family: Arial, sans-serif;
+    }
+
+    .container {
+      max-width: 600px;
+      padding: 20px;
+      background-color: #fff;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .social-links {
+      display: flex;
+      justify-content: space-around;
+      margin-top: 20px;
+    }
+
+    .tech-stack {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 10px;
+      margin-top: 20px;
+    }
+
+    .top-contributed-repo {
+      display: flex;
+      justify-content: center;
+      margin-top: 20px;
+    }
+  </style>
